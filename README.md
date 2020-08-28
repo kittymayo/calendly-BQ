@@ -8,3 +8,4 @@ Environment variables required
 CKEY: Calendly API Key
 
 ...
+[![Run on Repl.it](https://repl.it/badge/github/kittymayo/calendly-BQ)](https://repl.it/github/kittymayo/calendly-BQ)
